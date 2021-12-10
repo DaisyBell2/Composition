@@ -1,7 +1,8 @@
-package com.daisybell.composition
+package com.daisybell.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.daisybell.composition.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
